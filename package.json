@@ -1,6 +1,6 @@
 {
   "name": "tiny-emit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Another event emitter, only tiny.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
