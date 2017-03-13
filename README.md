@@ -8,6 +8,20 @@
 
 Another event emitter, only tiny.
 
+## Install
+
+_Yarn_
+
+```sh
+yarn add tiny-emit
+```
+
+_NPM_
+
+```sh
+npm install --save-dev tiny-emit
+```
+
 ## Usage
 
 ```javascript
