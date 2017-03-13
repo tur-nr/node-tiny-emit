@@ -4,6 +4,14 @@
   "description": "Another event emitter, only tiny.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
+  "keywords": [
+    "event",
+    "emitter",
+    "emit",
+    "on",
+    "once",
+    "off"
+  ],
   "repository": "git@github.com:tur-nr/node-tiny-emit.git",
   "bugs": {
     "url": "https://github.com/tur-nr/node-tiny-emit/issues"
