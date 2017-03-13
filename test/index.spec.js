@@ -100,7 +100,7 @@ describe('#tinyEmit()', () => {
 			emitter.emit('foo');
 
 			expect(listener).toHaveBeenCalled();
-		})
+		});
 	});
 
 	describe('.emit()', () => {
